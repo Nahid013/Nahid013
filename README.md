@@ -19,5 +19,7 @@ pkg install git
 pip install uuid
 
 git clone https://github.com/Nahid013/Nahid013.git
+
 cd Nahid013
+
 python Nahid013.py
