@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Nahid013
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+pkg update
 
-<!---
-Nahid013/Nahid013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pkg upgrade
+
+pkg install python
+
+pkg install python2
+
+pip install requests
+
+pip install mechanize
+
+pip install bs4
+
+pip2 install bs4
+
+pkg install git
+
+pip install uuid
+
+git clone https://github.com/Nahid013/Nahid013.git
+cd Nahid013
+python Nahid013.py
