@@ -1,5 +1,0 @@
-import os, sys
-try:
-    __import__("fucking1").__nahid__()
-except Exception as e:
-    exit(str(e))
